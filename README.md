@@ -1,4 +1,4 @@
-# CombatCross
+# Combat Cross
 Button-style controller with a lever: it's just a big D-Pad
 
 Lots of garbage in there, but the main project file is called dpad_layout.blend. Parts to print are:
