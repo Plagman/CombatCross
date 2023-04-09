@@ -3,7 +3,7 @@ Button-style controller with a lever: it's just a big D-Pad
 
 ![image](https://user-images.githubusercontent.com/529930/230793403-29ab6f69-3bfa-4f8a-b1a4-03d02c620158.png)
 
-![image](https://user-images.githubusercontent.com/529930/230793411-b77f4972-88d9-4fcd-b066-76c633a0249f.png)
+![cross2](https://user-images.githubusercontent.com/529930/230793459-90a7a319-3ade-42d7-82ab-7d0186a47f79.jpg)
 
 Lots of garbage in there, but the main project file is called dpad_layout.blend. Parts to print are:
  - "bed" collection: bottom frame, has a cradle for a Brook PS3/PS4 Fight Board
